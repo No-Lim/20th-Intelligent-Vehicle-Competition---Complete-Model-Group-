@@ -28,7 +28,7 @@ During the final, the road sign was not recognized due to reflection, and we reg
   <img width="218" alt="可视化4" src="https://github.com/user-attachments/assets/b0c1111d-9824-4568-8bb1-8fc3c847af68" />
 </p>
 ---
-
+</p>
 ## 🛠️ 技术架构
 
 | 层级 | 硬件/框架 | 说明 |
