@@ -22,9 +22,10 @@ During the final, the road sign was not recognized due to reflection, and we reg
 ## 🏁 算法可视化
 
 <p align="center">
+    <img width="218" alt="可视化4" src="https://github.com/user-attachments/assets/b0c1111d-9824-4568-8bb1-8fc3c847af68" />
   <img width="280" alt="可视化1" src="https://github.com/user-attachments/assets/0e66f7a2-19ab-4d7c-a8a9-c99dc9cb7716" />
   <img width="225" alt="可视化3" src="https://github.com/user-attachments/assets/78e04e26-450b-4f69-b215-84a59d768ab4" />
-  <img width="218" alt="可视化4" src="https://github.com/user-attachments/assets/b0c1111d-9824-4568-8bb1-8fc3c847af68" />
+
 </p>
 ---
 </p>
