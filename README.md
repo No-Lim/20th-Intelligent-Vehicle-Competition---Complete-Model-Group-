@@ -65,7 +65,7 @@ During the final, the road sign was not recognized due to reflection, and we reg
 | `crossroad` | 十字路口 — 正入/斜入、远线角点搜索、半十字补线 |
 
 ---
-- **收获**：玩玩C++，玩玩CV和Control，玩玩Deeplearning
+- **收获**：玩玩C++，CV，Control，Deeplearning
 
 ---
 
