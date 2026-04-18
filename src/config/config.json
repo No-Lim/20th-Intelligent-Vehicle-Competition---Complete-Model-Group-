@@ -1,0 +1,100 @@
+{
+    "speedLow":80,
+    "speedHigh":180,
+    "speed_obstacle":100,
+    
+    "speedBridge": 200,
+    "speedDown": 100,
+
+    "speedXieru": 170,
+    "speedMid":170,
+    "speedMidHigh":170,
+
+    "speedTwo":50,
+
+    "speedBattery":100,
+    "speed_battery_out":150,
+
+    "speed_buger_start":90,
+    "speed_burger_end":170,
+
+    "speed_layby_in" :130,
+    "speed_layby_running":130,
+    "speed_layby_out":100,
+
+    "speed_circle_in": 225,
+    "speedCircle_Runing":170,
+    "speedCircle_Out":170,
+
+    "parker_far_route_in":30,
+    "parker_far_route_turn":75,
+    
+    "ramp_up_route":200,
+    "ramp_down_route":150,
+
+    "debug":false,
+    "saveImg": false,
+
+    "bridge": false,
+    "danger": true,
+    "burger": false,
+    "layby" :false,
+    "battery":false,
+    
+    
+    "ring": false,
+    "cross": true,
+
+    "obstacle_p":2.2,
+    "ring_p":11,
+    "ring_in_p":20,
+
+    "parker_far": false,
+    "parker_near":true,
+
+    "aim_angle_filter":30,
+
+
+    "score": 0.5,
+    "model": "../res/model/yolo",
+
+    "PFF_0":21,
+    "PFF_1":10.5,
+    "PFF_2":3,
+
+    "DFF_0":10.5,
+    "DFF_1":5.25,
+    "DFF_2":1.5,
+
+    "UFF_P_0":5.28,
+    "UFF_P_1":9.57,
+    "UFF_P_2":17.85,
+    "UFF_P_3":19.64,
+    "UFF_P_4":20.82,
+    "UFF_P_5":21.21,
+    "UFF_P_6":22,
+
+    "UFF_D_0":50.8,
+    "UFF_D_1":60.35,
+    "UFF_D_2":170.65,
+    "UFF_D_3":193.76,
+    "UFF_D_4":200.38,
+    "UFF_D_5":210.15,
+    "UFF_D_6":220,
+
+    
+    "aim_distance_f":0.2,
+    "aim_distance_n":0.8,
+
+
+
+
+    "record": [
+        {
+            
+
+
+
+        }
+    ]
+}

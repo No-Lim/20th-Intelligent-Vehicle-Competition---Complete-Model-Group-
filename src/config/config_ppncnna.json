@@ -1,0 +1,5 @@
+{
+    "mode": "professional",
+    "model_dir": "../res/model/yolo",
+    "model_file": "deploy_paddle"
+}

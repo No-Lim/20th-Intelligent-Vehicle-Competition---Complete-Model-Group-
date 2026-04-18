@@ -1,0 +1,5 @@
+{
+    "mode": "normal",
+    "model_dir": "../res/model/yolo",
+    "model_file": "nms.tar.so"
+}
