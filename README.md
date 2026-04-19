@@ -36,8 +36,8 @@ During the final, the road sign was not recognized due to reflection, and we reg
 | 上位机 | 百度 EdgeBoard | Paddle Lite 推理 + OpenCV 多线程图像处理 |
 | 下位机 | 英飞凌 TC264 | 电机/舵机控制、编码器里程计 |
 | 通信 | UART | 上下位机串口通信协议 |
-| 感知 | 纯视觉（无 IMU） | YOLO 目标检测 + 传统视觉边线提取 |
-
+| 感知 | 纯视觉（无 IMU） | YOLO + ‌Inverse Perspective‌ + traditional CV|
+| 控制 | 串级 |Pure Persuit + Fuzzy Control|
 ---
 
 ## 📂 核心模块
